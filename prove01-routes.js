@@ -1,4 +1,4 @@
-const usernames = ['frank'];
+const usernames = [];
 
 const requestHandler = (req, res) => {
    const url = req.url;
