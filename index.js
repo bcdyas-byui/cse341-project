@@ -8,7 +8,7 @@
  * However, feel free to use pug or handlebars ('with extension hbs'). You will
  * need to make sure you install them beforehand according to the reading from
  * Udemy course.
- * IMPORTANT: Make sure to run "npm install" in your root before "npm start" fg
+ * IMPORTANT: Make sure to run "npm install" in your root before "npm start"
  *******************************************************************************/
 // Our initial setup (package requires, port number setup)
 const express = require('express');

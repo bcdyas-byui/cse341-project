@@ -8,6 +8,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
+    "prove01": "node prove01.js",
     "test": "node test.js"
   },
   "dependencies": {
